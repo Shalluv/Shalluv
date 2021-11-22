@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 It's-a me, Wheatley! 🤖</h1>
 <h3 align="center">An ordinary student from Thailand</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **SDL2.0**
 
 - ⚡ Fun fact **I definitely am not Satan, Lord of Darkness!**
 <p aligh="left">
@@ -25,6 +25,9 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 2rem; height: 2rem;"/> 
     </a> 
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" style="width: 2rem; height: 2rem;"/> 
+    </a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" style="width: 2rem; height: 2rem;"/> 
     </a> 
