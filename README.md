@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 It's-a me, Wheatley! 🤖</h1>
 <h3 align="center">An ordinary student from Thailand</h3>
 
-- 🌱 I’m currently learning **SDL2.0**
+- 🌱 I’m currently learning **React, Next.js**
 
 - ⚡ Fun fact **I definitely am not Satan, Lord of Darkness!**
 <p aligh="left">
