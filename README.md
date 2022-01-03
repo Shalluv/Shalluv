@@ -60,10 +60,3 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wheatttttttttttley&show_icons=true&locale=en&layout=compact" style="width: 16rem;" alt="wheatttttttttttley" />
 </p>
-
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://ko-fi.com/https://ko-fi.com/wheatley62820"> 
-        <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" style="width: 8rem;" alt="https://ko-fi.com/wheatley62820" />
-    </a>
-</p>
