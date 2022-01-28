@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=Wheatttttttttttley&&style=flat-square" align="right" />
 </div>
 
-# <div align="center"><👋Hello...It's-a me, Wheatley!🤖 /></div>
+# <div align="center"><👋Hello...It's-a me, shalluv!💘 /></div>
 
 ### <div align="center">I'm Leon, a full-time spy from lizard man race.🕵️‍♂️🦎</div>
 
