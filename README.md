@@ -2,9 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=shalluv&&style=flat-square" align="right" />
 </div>
 
-# <div align="center"><👋Hello...It's-a me, shalluv!💘 /></div>
+<h1><div align="center"><👋🏽Hello! It's-a me, shalluv!💘 /></div></h1>
 
-### <div align="center">I'm Leon, a full-time spy from lizard man race.🕵️‍♂️🦎</div>
+<h3><div align="center">You can just call me Leon.🦁<br />I'm a lizard-man spy disguised as human in Thailand.🕵🏽‍♂🦎</div></h3>
 
 - 🔭 I'm currently exploring on what I actually want do in my life.
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-## Connect with me
+<h2>Connect with me</h2>
 
 <div align="center">
 <a href="https://github.com/shalluv" target="_blank">
@@ -30,9 +30,9 @@
 </a>  
 </div>
 
-<br/>
+<br />
 
-## Github Stats
+<h2>Github Stats</h2>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shalluv&show_icons=true&locale=en" style="width:24em;" alt="shalluv" />
