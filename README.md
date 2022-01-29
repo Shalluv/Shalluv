@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=Wheatttttttttttley&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=shalluv&&style=flat-square" align="right" />
 </div>
 
 # <div align="center"><👋Hello...It's-a me, shalluv!💘 /></div>
@@ -19,10 +19,10 @@
 ## Connect with me
 
 <div align="center">
-<a href="https://github.com/Wheatttttttttttley" target="_blank">
+<a href="https://github.com/shalluv" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/WWWheatleyyy" target="_blank">
+<a href="https://twitter.com/shalluv_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/poonpipob" target="_blank">
@@ -35,9 +35,9 @@
 ## Github Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wheatttttttttttley&show_icons=true&locale=en" style="width:24em;" alt="wheatttttttttttley" />
+<img src="https://github-readme-stats.vercel.app/api?username=shalluv&show_icons=true&locale=en" style="width:24em;" alt="shalluv" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wheatttttttttttley&" style="width:24em;" alt="wheatttttttttttley" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shalluv&" style="width:24em;" alt="shalluv" />
 </div>
 
 ---
