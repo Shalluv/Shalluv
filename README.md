@@ -4,7 +4,7 @@
 
 <h1><div align="center"><👋🏼Hello! It's-a me, shalluv!💘 /></div></h1>
 
-<h3><div align="center">You can call me Leon.🦁<br />I'm a lizard-man spy disguised as human in Thailand.🕵🏽‍♂🦎</div></h3>
+<h3><div align="center">You can call me Leon.🦁<br />I'm a Reptilian spy disguised as human in Thailand.🕵🏽‍♂🦎</div></h3>
 
 - 🔭 I'm currently exploring on what I actually want do in my life.
 
