@@ -31,8 +31,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shalluv&show_icons=true&locale=en" alt="shalluv" height="160" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalluv&hide_border=true&layout=compact" height="160" />
 </div>
 
 ---
