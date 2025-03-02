@@ -10,8 +10,6 @@
 
 - 📚 I’m currently learning on web development field.
 
-- 😍 I'm currently having passionate about blogging.
-
 - 👿 Fun fact: I definitely am not Satan, Lord of Darkness!
 
 <br/>
